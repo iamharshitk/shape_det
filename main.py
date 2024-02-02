@@ -2,7 +2,7 @@ import cv2 as cv
 import glob
 
 
-folder_path="C:\\Users\\harsh\\OneDrive\\Desktop\\SR\\t2.4\\*.png"
+folder_path=""
 
 for file in glob.glob(folder_path):
 
